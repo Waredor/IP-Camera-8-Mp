@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AVDD_3P3USB Pin=M1-24
+Removed Pin From Net: NetName=AVDD_3P3USB Pin=Ñ34-1
+Added Pin To Net: NetName=AVDD_3P3USB Pin=L2-2
+Added Pin To Net: NetName=AVDD_ETH Pin=M1-24
+Added Pin To Net: NetName=AVDD_ETH Pin=Ñ34-1
+Added Net: Name=AVDD_ETH

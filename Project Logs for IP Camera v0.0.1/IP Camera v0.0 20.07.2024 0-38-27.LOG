@@ -1,0 +1,14 @@
+Added Component: Designator=ׁ49(CAP0603)
+Add component (AddParameter): Name = "Value"; Value = "0.1 לךװ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10 ֲ"; VariantName = "[No Variations]"
+Added Component: Designator=ׁ50(CAP0603)
+Add component (AddParameter): Name = "Value"; Value = "0.1 לךװ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10 ֲ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDDIO_MCLK Pin=M1-41
+Added Pin To Net: NetName=VDDIO_MCLK Pin=M1-46
+Added Pin To Net: NetName=AVDDIO_DRAM Pin=ׁ49-1
+Added Pin To Net: NetName=AGND Pin=ׁ49-2
+Added Pin To Net: NetName=VDDIO_MCLK Pin=ׁ50-1
+Added Pin To Net: NetName=GND Pin=ׁ50-2
+Change Net Name : Old Net Name=AVDDIO_DRAM New Net Name=AVDDIO_DRAM_40
+Change Net Name : Old Net Name=VDDIO_MCLK New Net Name=VDDIO_DATA_41
