@@ -105,7 +105,12 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAQDJGLF
 
+<<<<<<< HEAD
 [Document5]
+=======
+<<<<<<< HEAD
+[Document4]
+>>>>>>> 6c7048abe139f7d600226cb5187bc06d7ad44a47
 DocumentPath=IP Camera v0.0.1.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,6 +127,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+=======
+[Document5]
+DocumentPath=IP Camera v0.0.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LDYBPFTT
+
+=======
+>>>>>>> 203ffc9caf28da9863dd19ad0ded1799da2929f9
+>>>>>>> 6c7048abe139f7d600226cb5187bc06d7ad44a47
 [GeneratedDocument1]
 DocumentPath=Project Outputs for IP Camera v0.0.1\Design Rule Check - IP Camera v0.0.html
 DItemRevisionGUID=
